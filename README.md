@@ -22,7 +22,7 @@ Breit is a modern and interactive web-based tool that helps users practice sente
 
 ## Demo
 
-Live demo: [https://your-netlify-site.netlify.app](https://your-netlify-site.netlify.app)
+Live demo:([https://your-netlify-site.netlify.app](https://sentence-construction-tool.netlify.app/))
 
 ## Tech Stack
 
